@@ -1,0 +1,24 @@
+:root {
+    --main-bg-color: #00ff00;
+
+    }
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+.ball {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 80px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
+    padding: 20px;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+
+}
